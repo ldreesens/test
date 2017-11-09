@@ -6,3 +6,4 @@ def circumference(radius):
 
 def surfacearea(radius):
 	return 4 * math.pi *radius**2
+print('Im first haha')
