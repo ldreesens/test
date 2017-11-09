@@ -12,4 +12,5 @@ def ratio(raius):
 	return circumference(radius)/surfacearea(radius)
 
 
+print('Im first haha')
 
